@@ -106,7 +106,7 @@ while True:
             print("Error: Debes ingresar un número válido.")
 
     elif option == "5":
-        print(f"Saliendo del programa.")
+        print("Saliendo del programa.")
         break
 
     else:
